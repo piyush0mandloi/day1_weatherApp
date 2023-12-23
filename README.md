@@ -1,0 +1,1 @@
+Hey there , I have started a 30 days challenge to create 1 project everyday for next 30 days , so this is my first day and first project . i created weather app using html, css and javacript . i use vscode for this project .
